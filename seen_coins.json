@@ -113,6 +113,12 @@
     "name": "Axis USD",
     "risk": 8.0
   },
+  "bai-stablecoin": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "BAI Stablecoin",
+    "risk": 1.0
+  },
   "balanced-dollars": {
     "first_seen": "2026-09-24",
     "hype": 0.0,
@@ -1186,6 +1192,12 @@
     "hype": 5.0,
     "name": "Tether",
     "risk": 10.0
+  },
+  "tether-eurt": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "Euro Tether",
+    "risk": 1.0
   },
   "threshold-usd": {
     "first_seen": "2026-09-24",
