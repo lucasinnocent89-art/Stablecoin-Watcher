@@ -1,0 +1,1502 @@
+{
+  "a7a5": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "A7A5",
+    "risk": 4.0
+  },
+  "aegis-yusd": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "Aegis YUSD",
+    "risk": 6.3
+  },
+  "ageur": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "EURA",
+    "risk": 1.0
+  },
+  "agora-dollar": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "AUSD",
+    "risk": 8.7
+  },
+  "aiusd": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "AIUSD",
+    "risk": 5.3
+  },
+  "alchemix-usd": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "Alchemix USD",
+    "risk": 3.0
+  },
+  "alloy-tether": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "Alloy Tether",
+    "risk": 6.3
+  },
+  "allunity-chf": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "AllUnity CHF",
+    "risk": 3.0
+  },
+  "allunity-eur": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "AllUnity EUR",
+    "risk": 2.3
+  },
+  "alto-dusd": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "Alto DUSD",
+    "risk": 4.3
+  },
+  "anchored-coins-eur": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "Anchored Coins AEUR",
+    "risk": 1.0
+  },
+  "anzen-usdz": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "Anzen USDz",
+    "risk": 2.0
+  },
+  "anzens-usda": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "Anzens USDA",
+    "risk": 5.3
+  },
+  "apxusd": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "apxUSD",
+    "risk": 6.0
+  },
+  "astherus-usdf": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "Aster USDF",
+    "risk": 7.3
+  },
+  "aussie-dollar-token": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "Aussie Dollar Token",
+    "risk": 1.0
+  },
+  "avant-usd": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "Avant USD",
+    "risk": 7.3
+  },
+  "axcnh": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "AxCNH",
+    "risk": 2.0
+  },
+  "axis-usd": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "Axis USD",
+    "risk": 8.0
+  },
+  "balanced-dollars": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "Balanced Dollars",
+    "risk": 2.0
+  },
+  "bfusd": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "BFUSD",
+    "risk": 7.3
+  },
+  "bilira": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "BiLira",
+    "risk": 1.0
+  },
+  "binance-peg-busd": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "Binance-Peg BUSD",
+    "risk": 7.3
+  },
+  "binance-usd": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "BUSD",
+    "risk": 6.3
+  },
+  "bitcoin-usd-btcfi": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "Bitcoin USD (BTCFi)",
+    "risk": 5.3
+  },
+  "blox-myrc": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "Blox MYRC",
+    "risk": 1.0
+  },
+  "bob": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "BOB",
+    "risk": 4.3
+  },
+  "brazilian-real": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "Brazilian real",
+    "risk": 1.0
+  },
+  "bread-3": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "Bread",
+    "risk": 4.3
+  },
+  "brl1": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "BRL1",
+    "risk": 3.7
+  },
+  "brla-digital-brla": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "BRLA Digital BRLA",
+    "risk": 3.0
+  },
+  "brz": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "Brazilian Digital",
+    "risk": 3.0
+  },
+  "bucket-protocol-buck-stablecoin": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "Bucket Protocol BUCK Stablecoin",
+    "risk": 7.7
+  },
+  "cad-coin": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "CAD Coin",
+    "risk": 2.3
+  },
+  "cad-digital": {
+    "first_seen": "2026-09-24",
+    "hype": 5.0,
+    "name": "CAD Digital",
+    "risk": 1.0
+  },
+  "cap-usd": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "Cap USD",
+    "risk": 6.3
+  },
+  "cash-4": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "CASH",
+    "risk": 8.7
+  },
+  "celo-british-pound": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "Mento British Pound",
+    "risk": 2.3
+  },
+  "celo-dollar": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "Mento Dollar",
+    "risk": 5.3
+  },
+  "celo-euro": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "Mento Euro",
+    "risk": 1.0
+  },
+  "chain-key-usdt": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "Chain-key USDT",
+    "risk": 5.7
+  },
+  "chateau-usd": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "Chateau USD",
+    "risk": 4.3
+  },
+  "citrea-usd": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "Citrea USD",
+    "risk": 4.3
+  },
+  "cod3x-usd": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "Cod3x USD",
+    "risk": 1.0
+  },
+  "compliant-naira": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "Compliant Naira",
+    "risk": 1.0
+  },
+  "convertible-jpy-token": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "Convertible JPY Token",
+    "risk": 1.0
+  },
+  "crown-brlv": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "Crown BRLV",
+    "risk": 3.0
+  },
+  "crvusd": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "crvUSD",
+    "risk": 8.7
+  },
+  "curve-fi-frax-usdc": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "Curve.fi FRAX/USDC",
+    "risk": 4.3
+  },
+  "cygnus-finance-global-usd": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "Cygnus Finance Global USD",
+    "risk": 5.0
+  },
+  "dai": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "Dai",
+    "risk": 8.7
+  },
+  "decentralized-euro": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "Decentralized Euro",
+    "risk": 1.0
+  },
+  "defi-money": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "Defi.money",
+    "risk": 5.3
+  },
+  "djed": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "Djed",
+    "risk": 3.0
+  },
+  "dola-usd": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "DOLA",
+    "risk": 6.3
+  },
+  "dollar-on-chain": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "Dollar On Chain",
+    "risk": 2.0
+  },
+  "dtrinity-usd": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "dTRINITY USD",
+    "risk": 4.3
+  },
+  "electronic-usd": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "Electronic USD",
+    "risk": 7.7
+  },
+  "enosys-loans-cdp": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "Enosys Loans CDP",
+    "risk": 5.3
+  },
+  "esui-dollar": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "eSui Dollar",
+    "risk": 5.3
+  },
+  "ethena-usde": {
+    "first_seen": "2026-09-24",
+    "hype": 5.0,
+    "name": "Ethena USDe",
+    "risk": 7.3
+  },
+  "eurite": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "Eurite",
+    "risk": 5.7
+  },
+  "euro-coin": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "EURC",
+    "risk": 5.3
+  },
+  "eusd-2": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "eUSD",
+    "risk": 5.3
+  },
+  "eusd-new": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "eUSD",
+    "risk": 1.0
+  },
+  "f-x-protocol-fxusd": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "f(x) Protocol fxUSD",
+    "risk": 6.3
+  },
+  "falcon-finance": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "Falcon USD",
+    "risk": 7.3
+  },
+  "fathom-dollar": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "Fathom Dollar",
+    "risk": 1.0
+  },
+  "fei-usd": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "Fei USD",
+    "risk": 4.3
+  },
+  "felix-feusd": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "Felix feUSD",
+    "risk": 6.3
+  },
+  "fidelity-digital-dollar": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "Fidelity Digital Dollar",
+    "risk": 9.0
+  },
+  "first-digital-usd": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "First Digital USD",
+    "risk": 10.0
+  },
+  "flying-tulip-usd": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "Flying Tulip USD",
+    "risk": 4.3
+  },
+  "forest-road-usdfr": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "Forest Road USDfr",
+    "risk": 4.3
+  },
+  "forte-aud": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "Forte AUD",
+    "risk": 1.0
+  },
+  "frankencoin": {
+    "first_seen": "2026-09-24",
+    "hype": 5.0,
+    "name": "Frankencoin",
+    "risk": 3.0
+  },
+  "frax": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "Legacy Frax Dollar",
+    "risk": 6.0
+  },
+  "frax-usd": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "Frax USD",
+    "risk": 8.7
+  },
+  "freedom-dollar": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "Freedom Dollar",
+    "risk": 5.3
+  },
+  "fusd-by-the-fedz": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "The Fedz FUSD",
+    "risk": 2.0
+  },
+  "gemini-dollar": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "Gemini Dollar",
+    "risk": 6.3
+  },
+  "gho": {
+    "first_seen": "2026-09-24",
+    "hype": 5.0,
+    "name": "GHO",
+    "risk": 7.3
+  },
+  "glo-dollar": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "Glo Dollar",
+    "risk": 5.7
+  },
+  "global-dollar": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "Global Dollar",
+    "risk": 10.0
+  },
+  "good-game-us-dollar": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "Good Game US Dollar",
+    "risk": 4.3
+  },
+  "gusd": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "GUSD",
+    "risk": 7.3
+  },
+  "gyen": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "GYEN",
+    "risk": 2.0
+  },
+  "hela-usd": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "HeLa USD",
+    "risk": 4.3
+  },
+  "helio-protocol-hay": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "Lista USD",
+    "risk": 6.3
+  },
+  "hermetica-usdh": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "Hermetica USDh",
+    "risk": 4.3
+  },
+  "hex-trust-usdx": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "Hex Trust USD",
+    "risk": 5.0
+  },
+  "hive_dollar": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "Hive Dollar",
+    "risk": 5.0
+  },
+  "honey-3": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "Bera USD",
+    "risk": 6.7
+  },
+  "hydrated-dollar": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "Hydrated Dollar",
+    "risk": 6.7
+  },
+  "hylo-usd": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "Hylo USD",
+    "risk": 9.0
+  },
+  "idrx": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "IDRX",
+    "risk": 1.0
+  },
+  "inter-stable-token": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "Inter Stable Token",
+    "risk": 4.3
+  },
+  "iusd": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "Indigo Protocol iUSD",
+    "risk": 4.0
+  },
+  "jarvis-synthetic-euro": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "Jarvis Synthetic Euro",
+    "risk": 1.0
+  },
+  "jpy-coin": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "JPY Coin",
+    "risk": 3.0
+  },
+  "jpyc": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "JPY Coin v1",
+    "risk": 2.0
+  },
+  "jpycoin": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "JPY Coin",
+    "risk": 4.0
+  },
+  "jpysc": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "JPYSC",
+    "risk": 4.0
+  },
+  "juice-dollar": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "Juice Dollar",
+    "risk": 4.3
+  },
+  "jupusd": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "JupUSD",
+    "risk": 9.0
+  },
+  "just-stablecoin": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "JUST Stablecoin",
+    "risk": 1.0
+  },
+  "klaytn-dai": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "Klaytn Dai",
+    "risk": 1.0
+  },
+  "krwt": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "KRWQ",
+    "risk": 1.0
+  },
+  "kyrgyz-som-stablecoin": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "Kyrgyz Som Stablecoin",
+    "risk": 3.3
+  },
+  "last-usd": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "Last USD",
+    "risk": 4.3
+  },
+  "level-usd": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "Level USD",
+    "risk": 4.3
+  },
+  "leverup-usd": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "LeverUp USD",
+    "risk": 4.3
+  },
+  "liquid-loans-usdl": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "Liquid Loans USDL",
+    "risk": 4.3
+  },
+  "liquity-bold-2": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "BOLD",
+    "risk": 6.3
+  },
+  "liquity-usd": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "Liquity USD",
+    "risk": 5.0
+  },
+  "macropod": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "Macropod",
+    "risk": 2.3
+  },
+  "magic-internet-money": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "Magic Internet Money (Ethereum)",
+    "risk": 1.0
+  },
+  "magic-internet-money-arbitrum": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "Magic Internet Money (Arbitrum)",
+    "risk": 1.0
+  },
+  "magic-internet-money-avalanche": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "Magic Internet Money (Avalanche)",
+    "risk": 1.0
+  },
+  "magic-internet-money-optimism": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "Magic Internet Money (Optimism)",
+    "risk": 1.0
+  },
+  "main-street-usd": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "Main Street USD",
+    "risk": 3.0
+  },
+  "mantra-usd": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "MANTRA USD",
+    "risk": 5.7
+  },
+  "megausd": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "MegaUSD",
+    "risk": 5.3
+  },
+  "metal-dollar": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "Metal Dollar",
+    "risk": 7.0
+  },
+  "metamask-usd": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "MetaMask USD",
+    "risk": 9.0
+  },
+  "metronome-synth-usd": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "Metronome Synth USD",
+    "risk": 4.3
+  },
+  "mezo-usd": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "Mezo USD",
+    "risk": 5.0
+  },
+  "mimatic": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "MAI",
+    "risk": 4.0
+  },
+  "monerium-eur-money": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "Monerium EUR emoney [OLD]",
+    "risk": 3.0
+  },
+  "monerium-eur-money-2": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "Monerium EUR emoney",
+    "risk": 4.3
+  },
+  "monerium-gbp-emoney": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "Monerium GBP emoney",
+    "risk": 1.0
+  },
+  "monetrix-usd": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "Monetrix USD",
+    "risk": 5.7
+  },
+  "moola-celo-dollars": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "Moola Celo Dollars",
+    "risk": 3.0
+  },
+  "mountain-protocol-usdm": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "Mountain Protocol USD",
+    "risk": 4.3
+  },
+  "mu-digital-aznd": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "Mu Digital AZND",
+    "risk": 1.0
+  },
+  "musd": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "mStable USD",
+    "risk": 4.3
+  },
+  "mxnb": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "MXNB",
+    "risk": 2.3
+  },
+  "nectar": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "Nectar",
+    "risk": 4.3
+  },
+  "nest-alpha-vault-lp": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "Nest Alpha Vault (LP)",
+    "risk": 3.0
+  },
+  "newrails-euro": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "Newrails Euro",
+    "risk": 3.7
+  },
+  "noon-usn": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "Noon USN",
+    "risk": 6.3
+  },
+  "novatti-australian-digital-dollar": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "Australian Digital Dollar",
+    "risk": 2.0
+  },
+  "nusd-2": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "Neutrl USD",
+    "risk": 6.3
+  },
+  "nxusd": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "NXUSD",
+    "risk": 5.3
+  },
+  "ondo-u-s-dollar-token": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "Ondo U.S. Dollar Token",
+    "risk": 6.3
+  },
+  "openeden-open-dollar": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "OpenEden OpenDollar",
+    "risk": 5.3
+  },
+  "opus-cash": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "Opus CASH",
+    "risk": 4.3
+  },
+  "origin-dollar": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "Origin Dollar",
+    "risk": 5.3
+  },
+  "overnight-fi-usd-base": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "Overnight.fi USD+ (Base)",
+    "risk": 5.7
+  },
+  "par-stablecoin": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "Parallel",
+    "risk": 1.0
+  },
+  "parallel-usdp": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "Parallel USDp",
+    "risk": 4.3
+  },
+  "pathusd": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "pathUSD",
+    "risk": 5.0
+  },
+  "paxos-standard": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "Pax Dollar",
+    "risk": 7.7
+  },
+  "paypal-usd": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "PayPal USD",
+    "risk": 7.3
+  },
+  "pht-stablecoin": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "PHT Stablecoin",
+    "risk": 1.0
+  },
+  "plume-usd": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "Plume USD",
+    "risk": 4.3
+  },
+  "polymarket-usd": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "Polymarket USD",
+    "risk": 7.3
+  },
+  "powercity-pxdc": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "PXDC",
+    "risk": 4.3
+  },
+  "precious-metals-usd": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "Precious Metals USD",
+    "risk": 3.0
+  },
+  "quantoz-eurq": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "Quantoz EURQ",
+    "risk": 4.7
+  },
+  "quantoz-usdq": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "Quantoz USDQ",
+    "risk": 8.0
+  },
+  "rai": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "Rai Reflex Index",
+    "risk": 1.0
+  },
+  "re-protocol-reusd": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "Re Protocol reUSD",
+    "risk": 4.0
+  },
+  "reservoir-srusd": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "Reservoir srUSD",
+    "risk": 1.0
+  },
+  "resolv-usr": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "Resolv USR",
+    "risk": 1.0
+  },
+  "resupply-usd": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "Resupply USD",
+    "risk": 5.0
+  },
+  "rif-us-dollar": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "RIF US Dollar",
+    "risk": 4.3
+  },
+  "ring-usd": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "Ring USD",
+    "risk": 4.3
+  },
+  "ripple-usd": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "Ripple USD",
+    "risk": 10.0
+  },
+  "rome-stablecoin": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "ROME Stablecoin",
+    "risk": 4.3
+  },
+  "royal-euro": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "Royal Euro",
+    "risk": 5.7
+  },
+  "rupiah-token": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "Rupiah Token",
+    "risk": 2.0
+  },
+  "saturn-dollar": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "Saturn Dollar",
+    "risk": 6.3
+  },
+  "schuman-europ": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "EUR\u00d8P",
+    "risk": 2.0
+  },
+  "sigma-bnb-usd": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "Sigma bnb USD",
+    "risk": 4.3
+  },
+  "silvertimes-token": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "SilverTimes Token",
+    "risk": 1.0
+  },
+  "smardex-usdn": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "SMARDEX USDN",
+    "risk": 3.0
+  },
+  "societe-generale-forge-eurcv": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "EUR CoinVertible",
+    "risk": 6.7
+  },
+  "sofiusd": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "SoFiUSD",
+    "risk": 8.7
+  },
+  "solomon-usdv": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "Solomon USDv",
+    "risk": 6.7
+  },
+  "soulpeg-usd": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "SoulPeg USD",
+    "risk": 4.0
+  },
+  "sovryn-dollar": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "Sovryn Dollar",
+    "risk": 2.0
+  },
+  "sperax-usd": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "Sperax USD",
+    "risk": 7.0
+  },
+  "stable-coin-2": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "Stable Coin",
+    "risk": 5.3
+  },
+  "stable-mint-usd": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "Stable Mint USD",
+    "risk": 5.3
+  },
+  "stablecorp-qcad": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "Stablecorp QCAD",
+    "risk": 1.0
+  },
+  "stablr-euro": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "StablR Euro",
+    "risk": 1.0
+  },
+  "stablr-usd": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "StablR USD",
+    "risk": 2.0
+  },
+  "standx-dusd": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "StandX DUSD",
+    "risk": 6.3
+  },
+  "startale-usd": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "Startale USD",
+    "risk": 4.3
+  },
+  "stasis-eurs": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "STASIS EURO",
+    "risk": 2.0
+  },
+  "stbl-usst": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "STBL USST",
+    "risk": 4.3
+  },
+  "stoneyield-usd": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "StoneYield USD",
+    "risk": 3.0
+  },
+  "straitsx-xusd": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "StraitsX XUSD",
+    "risk": 9.0
+  },
+  "superreturn-ssuperusd": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "SuperReturn sSuperUSD",
+    "risk": 1.0
+  },
+  "tangent-usg": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "Tangent USG",
+    "risk": 7.0
+  },
+  "terrausd": {
+    "first_seen": "2026-09-24",
+    "hype": 5.0,
+    "name": "TerraClassicUSD",
+    "risk": 4.3
+  },
+  "tether": {
+    "first_seen": "2026-09-24",
+    "hype": 5.0,
+    "name": "Tether",
+    "risk": 10.0
+  },
+  "threshold-usd": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "Threshold USD",
+    "risk": 4.3
+  },
+  "tokenised-gbp": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "Tokenised GBP",
+    "risk": 3.0
+  },
+  "tori-trusd": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "Tori trUSD",
+    "risk": 7.7
+  },
+  "true-usd": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "TrueUSD",
+    "risk": 7.3
+  },
+  "united-stables": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "United Stables",
+    "risk": 10.0
+  },
+  "unity-2": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "Unity",
+    "risk": 5.3
+  },
+  "unity-usd": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "Unity USD",
+    "risk": 6.3
+  },
+  "universal-usd": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "Universal USD",
+    "risk": 6.3
+  },
+  "us-sonic-dollar": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "US Sonic Dollar",
+    "risk": 7.0
+  },
+  "usa": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "USAT",
+    "risk": 7.3
+  },
+  "usd-2": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "USD+",
+    "risk": 4.3
+  },
+  "usd-coin": {
+    "first_seen": "2026-09-24",
+    "hype": 5.0,
+    "name": "USDC",
+    "risk": 10.0
+  },
+  "usd-coinvertible": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "USD CoinVertible",
+    "risk": 8.0
+  },
+  "usd1-wlfi": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "USD1",
+    "risk": 10.0
+  },
+  "usda-2": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "USDa",
+    "risk": 4.0
+  },
+  "usda-3": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "USDA",
+    "risk": 3.0
+  },
+  "usda-4": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "USDA",
+    "risk": 5.3
+  },
+  "usdb": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "USDB",
+    "risk": 5.3
+  },
+  "usdd": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "USDD",
+    "risk": 7.3
+  },
+  "usdgo": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "USDGO",
+    "risk": 7.3
+  },
+  "usdh-2": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "USDH",
+    "risk": 6.3
+  },
+  "usdkg": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "USDKG",
+    "risk": 6.3
+  },
+  "usdm-2": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "USDM",
+    "risk": 5.3
+  },
+  "usdm1": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "USDM1",
+    "risk": 3.0
+  },
+  "usdpt-western-union": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "USDPT | Western Union",
+    "risk": 5.3
+  },
+  "usds": {
+    "first_seen": "2026-09-24",
+    "hype": 5.0,
+    "name": "USDS",
+    "risk": 7.3
+  },
+  "usdsui": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "USDsui",
+    "risk": 7.7
+  },
+  "usdtb": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "USDtb",
+    "risk": 7.3
+  },
+  "usdx-money-usdx": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "Stables Labs USDX",
+    "risk": 2.0
+  },
+  "usual-usd": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "Usual USD",
+    "risk": 7.3
+  },
+  "usx": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "USX",
+    "risk": 7.3
+  },
+  "usx-2": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "USX",
+    "risk": 4.3
+  },
+  "uxd-stablecoin": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "UXD Stablecoin",
+    "risk": 4.3
+  },
+  "vai": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "Vai",
+    "risk": 4.3
+  },
+  "vcred": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "VCRED",
+    "risk": 5.3
+  },
+  "virtue-usd": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "Virtue USD",
+    "risk": 3.0
+  },
+  "vnx-euro": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "VNX EURO",
+    "risk": 1.0
+  },
+  "vnx-swiss-franc": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "VNX Swiss Franc",
+    "risk": 2.3
+  },
+  "web-3-dollar": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "Web 3 Dollar",
+    "risk": 1.0
+  },
+  "wemix3-0-bridged-usdc-wemix3-0-dpos": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "WEMIX3.0 Bridged USDC (WEMIX3.0 DPoS)",
+    "risk": 4.3
+  },
+  "worldwide-usd": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "Worldwide USD",
+    "risk": 1.0
+  },
+  "wrapped-itry": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "Wrapped iTRY",
+    "risk": 2.0
+  },
+  "xdai": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "XDAI",
+    "risk": 6.3
+  },
+  "xsgd": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "XSGD",
+    "risk": 3.3
+  },
+  "xtusd": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "XT Stablecoin XTUSD",
+    "risk": 1.0
+  },
+  "ylds": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "YLDS",
+    "risk": 8.7
+  },
+  "ynusd-max": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "ynUSD Max",
+    "risk": 1.0
+  },
+  "youves-uusd": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "Youves uUSD",
+    "risk": 5.3
+  },
+  "yu": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "Yala Stablecoin",
+    "risk": 2.0
+  },
+  "yusd-stablecoin": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "YUSD Stablecoin",
+    "risk": 5.3
+  },
+  "yuzu-usd": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "Yuzu USD",
+    "risk": 6.3
+  },
+  "zarp-stablecoin": {
+    "first_seen": "2026-09-24",
+    "hype": 0.0,
+    "name": "ZARP Stablecoin",
+    "risk": 1.0
+  }
+}
