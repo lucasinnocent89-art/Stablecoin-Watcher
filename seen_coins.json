@@ -1505,6 +1505,12 @@
     "name": "Yuzu USD",
     "risk": 6.3
   },
+  "zar-supercoin": {
+    "first_seen": "2026-09-25",
+    "hype": 0.0,
+    "name": "ZAR Supercoin",
+    "risk": 1.0
+  },
   "zarp-stablecoin": {
     "first_seen": "2026-09-24",
     "hype": 0.0,
