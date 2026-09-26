@@ -1511,6 +1511,12 @@
     "name": "ZAR Supercoin",
     "risk": 1.0
   },
+  "zar-universal": {
+    "first_seen": "2026-09-26",
+    "hype": 0.0,
+    "name": "ZAR Universal",
+    "risk": 2.3
+  },
   "zarp-stablecoin": {
     "first_seen": "2026-09-24",
     "hype": 0.0,
