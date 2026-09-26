@@ -11,6 +11,12 @@
     "name": "Aegis YUSD",
     "risk": 6.3
   },
+  "agant-gbp": {
+    "first_seen": "2026-09-26",
+    "hype": 5.0,
+    "name": "Agant GBP",
+    "risk": 1.0
+  },
   "ageur": {
     "first_seen": "2026-09-24",
     "hype": 0.0,
