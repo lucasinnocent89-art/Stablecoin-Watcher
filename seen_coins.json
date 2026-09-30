@@ -275,6 +275,12 @@
     "name": "Cod3x USD",
     "risk": 1.0
   },
+  "colombian-peso": {
+    "first_seen": "2026-09-30",
+    "hype": 0.0,
+    "name": "Colombian Peso",
+    "risk": 1.0
+  },
   "compliant-naira": {
     "first_seen": "2026-09-24",
     "hype": 0.0,
