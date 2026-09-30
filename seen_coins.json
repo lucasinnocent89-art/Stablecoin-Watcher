@@ -767,6 +767,12 @@
     "name": "Metronome Synth USD",
     "risk": 4.3
   },
+  "mexican-peso": {
+    "first_seen": "2026-09-30",
+    "hype": 0.0,
+    "name": "Mexican Peso",
+    "risk": 1.0
+  },
   "mezo-usd": {
     "first_seen": "2026-09-24",
     "hype": 0.0,
@@ -963,6 +969,12 @@
     "first_seen": "2026-09-24",
     "hype": 0.0,
     "name": "Precious Metals USD",
+    "risk": 3.0
+  },
+  "prisma-mkusd": {
+    "first_seen": "2026-09-30",
+    "hype": 0.0,
+    "name": "Prisma mkUSD",
     "risk": 3.0
   },
   "quantoz-eurq": {
