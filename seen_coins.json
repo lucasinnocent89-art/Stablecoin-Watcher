@@ -1301,6 +1301,12 @@
     "name": "USD CoinVertible",
     "risk": 8.0
   },
+  "usd-infra": {
+    "first_seen": "2026-10-01",
+    "hype": 0.0,
+    "name": "USD.infra",
+    "risk": 5.3
+  },
   "usd1-wlfi": {
     "first_seen": "2026-09-24",
     "hype": 0.0,
