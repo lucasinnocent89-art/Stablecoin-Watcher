@@ -893,6 +893,12 @@
     "name": "Ondo U.S. Dollar Token",
     "risk": 6.3
   },
+  "open-usd": {
+    "first_seen": "2026-10-02",
+    "hype": 4.2,
+    "name": "Open USD",
+    "risk": 7.3
+  },
   "openeden-open-dollar": {
     "first_seen": "2026-09-24",
     "hype": 0.0,
