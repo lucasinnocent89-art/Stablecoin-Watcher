@@ -731,6 +731,12 @@
     "name": "Magic Internet Money (Avalanche)",
     "risk": 1.0
   },
+  "magic-internet-money-fantom": {
+    "first_seen": "2026-10-07",
+    "hype": 0.0,
+    "name": "Magic Internet Money (Fantom)",
+    "risk": 1.0
+  },
   "magic-internet-money-optimism": {
     "first_seen": "2026-09-24",
     "hype": 0.0,
@@ -1312,6 +1318,12 @@
     "hype": 0.0,
     "name": "USD.infra",
     "risk": 5.3
+  },
+  "usd-somnia": {
+    "first_seen": "2026-10-07",
+    "hype": 0.0,
+    "name": "USD Somnia",
+    "risk": 4.3
   },
   "usd1-wlfi": {
     "first_seen": "2026-09-24",
