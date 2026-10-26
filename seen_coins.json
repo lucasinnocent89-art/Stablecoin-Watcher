@@ -1493,6 +1493,12 @@
     "name": "Worldwide USD",
     "risk": 1.0
   },
+  "wrapped-emusd": {
+    "first_seen": "2026-10-26",
+    "hype": 0.0,
+    "name": "Wrapped emUSD",
+    "risk": 3.0
+  },
   "wrapped-itry": {
     "first_seen": "2026-09-24",
     "hype": 0.0,
