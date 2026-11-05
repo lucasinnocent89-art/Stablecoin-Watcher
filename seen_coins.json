@@ -1019,6 +1019,12 @@
     "name": "Re Protocol reUSD",
     "risk": 4.0
   },
+  "realfi-usdrf": {
+    "first_seen": "2026-11-05",
+    "hype": 0.0,
+    "name": "RealFi USDrf",
+    "risk": 4.0
+  },
   "reservoir-srusd": {
     "first_seen": "2026-09-24",
     "hype": 0.0,
