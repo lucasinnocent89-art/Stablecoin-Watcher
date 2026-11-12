@@ -1421,6 +1421,12 @@
     "name": "USDtb",
     "risk": 7.3
   },
+  "usdtplus": {
+    "first_seen": "2026-11-12",
+    "hype": 0.0,
+    "name": "Overnight.fi USDT+",
+    "risk": 4.3
+  },
   "usdx-money-usdx": {
     "first_seen": "2026-09-24",
     "hype": 0.0,
