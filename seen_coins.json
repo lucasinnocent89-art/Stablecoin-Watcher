@@ -335,6 +335,12 @@
     "name": "Defi.money",
     "risk": 5.3
   },
+  "diversified-usd": {
+    "first_seen": "2026-11-13",
+    "hype": 0.0,
+    "name": "Diversified USD",
+    "risk": 5.7
+  },
   "djed": {
     "first_seen": "2026-09-24",
     "hype": 0.0,
