@@ -599,6 +599,12 @@
     "name": "Inter Stable Token",
     "risk": 4.3
   },
+  "inverse-usd": {
+    "first_seen": "2026-11-13",
+    "hype": 0.0,
+    "name": "Inverse USD",
+    "risk": 5.7
+  },
   "iusd": {
     "first_seen": "2026-09-24",
     "hype": 0.0,
