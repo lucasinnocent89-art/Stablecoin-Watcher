@@ -1037,6 +1037,12 @@
     "name": "RealFi USDrf",
     "risk": 4.0
   },
+  "reservoir-rusd": {
+    "first_seen": "2026-11-14",
+    "hype": 0.0,
+    "name": "Reservoir rUSD",
+    "risk": 4.3
+  },
   "reservoir-srusd": {
     "first_seen": "2026-09-24",
     "hype": 0.0,
