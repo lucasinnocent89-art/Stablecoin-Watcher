@@ -89,6 +89,12 @@
     "name": "apxUSD",
     "risk": 6.0
   },
+  "argentine-peso": {
+    "first_seen": "2026-11-15",
+    "hype": 0.0,
+    "name": "Argentine Peso",
+    "risk": 2.0
+  },
   "astherus-usdf": {
     "first_seen": "2026-09-24",
     "hype": 0.0,
