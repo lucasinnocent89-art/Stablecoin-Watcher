@@ -1457,6 +1457,12 @@
     "name": "Stables Labs USDX",
     "risk": 2.0
   },
+  "usual-eur": {
+    "first_seen": "2026-11-16",
+    "hype": 0.0,
+    "name": "Usual EUR",
+    "risk": 3.7
+  },
   "usual-usd": {
     "first_seen": "2026-09-24",
     "hype": 0.0,
