@@ -257,6 +257,12 @@
     "name": "Mento Euro",
     "risk": 1.0
   },
+  "celo-real-creal": {
+    "first_seen": "2026-11-19",
+    "hype": 0.0,
+    "name": "Mento Brazilian Real",
+    "risk": 1.0
+  },
   "chain-key-usdt": {
     "first_seen": "2026-09-24",
     "hype": 0.0,
@@ -947,6 +953,12 @@
     "name": "Overnight.fi USD+ (Base)",
     "risk": 5.7
   },
+  "own-eusd": {
+    "first_seen": "2026-11-19",
+    "hype": 0.0,
+    "name": "Own eUSD",
+    "risk": 7.0
+  },
   "par-stablecoin": {
     "first_seen": "2026-09-24",
     "hype": 0.0,
@@ -1271,6 +1283,12 @@
     "name": "Threshold USD",
     "risk": 4.3
   },
+  "token-teknoloji-a-s-euro": {
+    "first_seen": "2026-11-19",
+    "hype": 0.0,
+    "name": "Token Teknoloji A.\u015e. EURO",
+    "risk": 2.3
+  },
   "tokenised-gbp": {
     "first_seen": "2026-09-24",
     "hype": 0.0,
@@ -1445,6 +1463,12 @@
     "name": "USDtb",
     "risk": 7.3
   },
+  "usdtez": {
+    "first_seen": "2026-11-19",
+    "hype": 0.0,
+    "name": "USDtez",
+    "risk": 1.0
+  },
   "usdtplus": {
     "first_seen": "2026-11-12",
     "hype": 0.0,
@@ -1504,6 +1528,12 @@
     "hype": 0.0,
     "name": "Virtue USD",
     "risk": 3.0
+  },
+  "vnx-british-pound": {
+    "first_seen": "2026-11-19",
+    "hype": 0.0,
+    "name": "VNX British Pound",
+    "risk": 1.0
   },
   "vnx-euro": {
     "first_seen": "2026-09-24",
