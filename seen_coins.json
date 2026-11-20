@@ -95,6 +95,12 @@
     "name": "Argentine Peso",
     "risk": 2.0
   },
+  "argon-2": {
+    "first_seen": "2026-11-20",
+    "hype": 0.0,
+    "name": "Argon",
+    "risk": 3.0
+  },
   "astherus-usdf": {
     "first_seen": "2026-09-24",
     "hype": 0.0,
@@ -1414,6 +1420,12 @@
     "hype": 0.0,
     "name": "USDD",
     "risk": 7.3
+  },
+  "usdfc": {
+    "first_seen": "2026-11-20",
+    "hype": 0.0,
+    "name": "USDFC",
+    "risk": 5.7
   },
   "usdgo": {
     "first_seen": "2026-09-24",
