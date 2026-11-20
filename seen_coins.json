@@ -557,6 +557,12 @@
     "name": "GYEN",
     "risk": 2.0
   },
+  "hedera-swiss-franc": {
+    "first_seen": "2026-11-20",
+    "hype": 0.0,
+    "name": "Hedera Swiss Franc",
+    "risk": 1.0
+  },
   "hela-usd": {
     "first_seen": "2026-09-24",
     "hype": 0.0,
